@@ -1,0 +1,3 @@
+'''
+Integrates all files
+'''
